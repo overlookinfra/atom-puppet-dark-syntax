@@ -1,0 +1,11 @@
+{
+  "name": "puppet-dark-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A dark theme for puppet syntax",
+  "repository": "https://github.com/puppetlabs-pmmteam/atom-puppet-dark-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
